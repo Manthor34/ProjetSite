@@ -1,0 +1,16 @@
+.flex-list{
+
+}
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline;
+    padding: 50px;
+}
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:aliceblue;
+    background-color: #0c0e1c
+  }
+  h1 {
+    color:aliceblue
+  }
