@@ -1,16 +1,44 @@
-.flex-list{
-
-}
 li {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: inline;
     padding: 50px;
+    font-size: 30px;
 }
   body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:aliceblue;
+    color:#f1eedc;
     background-color: #0c0e1c
   }
   h1 {
-    color:aliceblue
+    color:#f1eedc;
   }
+  .styled-list{
+    text-decoration: none;
+    font-size: 20px;
+  }
+  #ilove {
+    font-size: 100px;
+    color: #0c0e1c;
+    display: inline;
+    background-color: #f1eedc;
+ }
+ #computing {
+    font-size: 100px;
+    display: inline;
+ }
+ a:link { 
+    text-decoration: none; 
+} 
+.carre {
+    height: 40px;
+    width: 40px;
+    background-color: #f1eedc;
+    float: left;
+}
+p {
+   column-count: 2;
+    column-rule: 15px #f1eedc;
+}
+a:visited{
+    color: #f1eedc;
+}
