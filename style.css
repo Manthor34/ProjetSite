@@ -1,16 +1,20 @@
 li {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: inline;
     padding: 50px;
-    font-size: 30px;
 }
   body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
     color:#f1eedc;
     background-color: #0c0e1c
   }
   h1 {
     color:#f1eedc;
+  }
+  .flex-list{
+    font-size: 30px;
+    padding:40;
+    padding-bottom: 50px;
   }
   .styled-list{
     text-decoration: none;
@@ -36,9 +40,14 @@ li {
     float: left;
 }
 p {
-   column-count: 2;
-    column-rule: 15px #f1eedc;
+    font-family: 'Roboto', sans-serif;
+    column-count: 2;
 }
 a:visited{
     color: #f1eedc;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
 }
